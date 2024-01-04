@@ -1,0 +1,24 @@
+select {
+  border: none;
+  background-color: transparent;
+
+  /* Arrow */
+  appearance: none;
+  background-image: url("../../../assets/heart.png");
+  background-repeat: no-repeat;
+  background-position: right 0.7rem top 50%;
+  background-size: 0.65rem auto;
+}
+
+select:focus-visible {
+  border: none;
+  outline: none;
+}
+
+.setFormat {
+  width: 100px;
+}
+
+.numberFormat {
+  width: 50px;
+}

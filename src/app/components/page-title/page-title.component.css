@@ -1,0 +1,12 @@
+:root {
+  --pink: rgb(251, 161, 183);
+  --light-pink: rgb(255, 209, 218);
+  --white: rgb(255, 240, 245);
+  --gold: rgb(255, 219, 170);
+}
+
+h1 {
+  font-family: "TantoFont";
+  margin: 0 auto;
+  text-align: center;
+}

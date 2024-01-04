@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: "TantoFont";
+  src: url("../src/assets/Jua-Regular.ttf") format("truetype");
+  font-weight: bold;
+}
+
+* {
+  font-family: "TantoFont";
+}
+
+.small-container {
+  display: flex;
+  background-color: rgb(255, 240, 245);
+  width: 150px;
+  height: 32px;
+  border: 2px solid rgb(251, 161, 183);
+  border-radius: 5px;
+  padding: 4px;
+  justify-content: space-evenly;
+
+  align-items: center;
+}

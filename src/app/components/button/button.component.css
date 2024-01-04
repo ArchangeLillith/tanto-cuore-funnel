@@ -1,0 +1,32 @@
+:root {
+  --pink: rgb(251, 161, 183);
+  --light-pink: rgb(255, 209, 218);
+  --white: rgb(255, 240, 245);
+  --gold: rgb(255, 219, 170);
+}
+
+button {
+  background: rgb(255, 240, 245);
+  outline: 2px solid rgb(251, 161, 183);
+  border-radius: 999px;
+  box-sizing: border-box;
+  color: black;
+  cursor: pointer;
+  font-family: "TantoFont";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+  transition: transform 0.15s ease-out;
+}
+
+button:hover {
+  transform: scale(120%);
+}

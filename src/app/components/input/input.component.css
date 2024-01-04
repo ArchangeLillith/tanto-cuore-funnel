@@ -1,0 +1,15 @@
+:root {
+  --pink: rgb(251, 161, 183);
+  --light-pink: rgb(255, 209, 218);
+  --white: rgb(255, 240, 245);
+  --gold: rgb(255, 219, 170);
+}
+
+input {
+  background-color: rgb(255, 240, 245);
+  width: 150px;
+  border: 2px solid rgb(251, 161, 183);
+  border-radius: 5px;
+  height: 32px;
+  padding: 0 5px;
+}

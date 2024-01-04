@@ -1,0 +1,19 @@
+<div class="small-container">
+  <label for="{{ text }}">{{ text }}</label>
+  <select
+    *ngIf="numberFormat"
+    class="numberFormat"
+    id="{{ text }}"
+    (change)="onChange($event)"
+  >
+    <option *ngFor="let number of numbers">{{ number }}</option>
+  </select>
+  <select
+    *ngIf="setFormat"
+    class="setFormat"
+    id="{{ text }}"
+    (change)="onChange($event)"
+  >
+    <option *ngFor="let setTitle of setTitles">{{ setTitle }}</option>
+  </select>
+</div>
