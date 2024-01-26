@@ -14,7 +14,7 @@ const httpOptions = {
 })
 export class cardService {
   constructor(private http: HttpClient) {}
-  //one of the two we should need, a post.
+
   addCard(newCard: Card): Observable<Card> {
     const url = `http://localhost:5000/${newCard.set}`;
     return this.http.post<Card>(url, newCard, httpOptions);
