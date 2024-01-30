@@ -3,7 +3,7 @@
     {
       "name": "Marianne Soleil",
       "cardTitle": "Maid Chief",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/3/3a/MarianneSoleil.jpg/revision/latest?cb=20140417204421",
+      "pictureUrl": "./assets/images/MarianneSoleil.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": true,
@@ -28,7 +28,7 @@
     {
       "name": "Colette Framboise",
       "cardTitle": "Chambermaid Chief",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/6/6e/ColetteFramboise.jpg/revision/latest?cb=20140417204107",
+      "pictureUrl": "./assets/images/ColetteFramboise.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": true,
@@ -53,7 +53,7 @@
     {
       "name": "Anise Greenaway",
       "cardTitle": "Treasury Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/8/85/AniseGreenaway.jpg/revision/latest?cb=20140417203628",
+      "pictureUrl": "./assets/images/AniseGreenaway.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -78,7 +78,7 @@
     {
       "name": "Ophelia Grail",
       "cardTitle": "All-Purpose Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/d/d6/Ophelia.jpg/revision/latest?cb=20141121204218",
+      "pictureUrl": "./assets/images/Ophelia.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -103,7 +103,7 @@
     {
       "name": "Sainsbury Lockwood",
       "cardTitle": "Laundry Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/3/31/SainsburyLockwood.jpg/revision/latest?cb=20140417204749",
+      "pictureUrl": "./assets/images/SainsburyLockwood.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -128,7 +128,7 @@
     {
       "name": "Tenalys Trent",
       "cardTitle": "Nap Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/7/7d/TenalysTrent.jpg/revision/latest?cb=20140417204851",
+      "pictureUrl": "./assets/images/TenalysTrent.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -153,7 +153,7 @@
     {
       "name": "Natsumi Fujikawa",
       "cardTitle": "Cleaning Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/b/b8/NatsumiFujikawa.jpg/revision/latest?cb=20140417204522",
+      "pictureUrl": "./assets/images/NatsumiFujikawa.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -178,7 +178,7 @@
     {
       "name": "Nena Wilder",
       "cardTitle": "Teasing Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/9/9c/NenaWilder.jpg/revision/latest?cb=20140417204543",
+      "pictureUrl": "./assets/images/NenaWilder.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -203,7 +203,7 @@
     {
       "name": "Esquine Foret",
       "cardTitle": "Scrapping Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/5/5c/EsquineForet.jpg/revision/latest?cb=20140417204155",
+      "pictureUrl": "./assets/images/EsquineForet.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -228,7 +228,7 @@
     {
       "name": "Genevieve Daubigny",
       "cardTitle": "Cooking Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/0/0c/GenevieveDaubigny.jpg/revision/latest?cb=20140417204247",
+      "pictureUrl": "./assets/images/GenevieveDaubigny.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -253,7 +253,7 @@
     {
       "name": "Moine de Lefevre",
       "cardTitle": "Employing Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/3/3f/MoineDeLefevre.jpg/revision/latest?cb=20140417204501",
+      "pictureUrl": "./assets/images/MoineDeLefevre.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -278,7 +278,7 @@
     {
       "name": "Eliza Rosewater",
       "cardTitle": "Policing Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/0/0e/ElizaRosewater.jpg/revision/latest?cb=20140417204131",
+      "pictureUrl": "./assets/images/ElizaRosewater.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -303,7 +303,7 @@
     {
       "name": "Kagari Ichinomiya",
       "cardTitle": "Sewing Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/5/5e/KagariIchinomiya.jpg/revision/latest?cb=20140417204323",
+      "pictureUrl": "./assets/images/KagariIchinomiya.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -328,7 +328,7 @@
     {
       "name": "Claire Saint-Juste",
       "cardTitle": "White Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/c/c7/ClaireSaint-Juste.jpg/revision/latest?cb=20140417203729",
+      "pictureUrl": "./assets/images/ClaireSaint-Juste.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -353,7 +353,7 @@
     {
       "name": "Safran Virginie",
       "cardTitle": "Chambermaid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/0/08/SafranVirginie.jpg/revision/latest?cb=20140417204730",
+      "pictureUrl": "./assets/images/SafranVirginie.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -378,7 +378,7 @@
     {
       "name": "Azure Crescent",
       "cardTitle": "Chambermaid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/4/43/AzureCrescent.jpg/revision/latest?cb=20140417203649",
+      "pictureUrl": "./assets/images/AzureCrescent.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -403,7 +403,7 @@
     {
       "name": "Viola Crescent",
       "cardTitle": "Chambermaid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/1/12/ViolaCrescent.jpg/revision/latest?cb=20140417204912",
+      "pictureUrl": "./assets/images/ViolaCrescent.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -428,7 +428,7 @@
     {
       "name": "Rouge Crescent",
       "cardTitle": "Chambermaid",
-      "pictureUrl": "/src/assets/images/RougeCrescent.webp",
+      "pictureUrl": "./assets/images/RougeCrescent.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -455,7 +455,7 @@
     {
       "name": "Claudine de La Rochelle",
       "cardTitle": "Maid Chief",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/1/19/ClaudineDeLaRochelle.jpg/revision/latest?cb=20140417205219",
+      "pictureUrl": "/assets/images/RougeCrescent.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": true,
@@ -480,7 +480,7 @@
     {
       "name": "Aline Du Roy",
       "cardTitle": "Chambermaid Chief",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/d/d5/AlineDuRoy.jpg/revision/latest?cb=20140417205045",
+      "pictureUrl": "./assets/images/AlineDuRoy.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": true,
@@ -505,7 +505,7 @@
     {
       "name": "Tiffany Wise",
       "cardTitle": "Hiring Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/5/59/TiffanyWise.jpg/revision/latest?cb=20140417205942",
+      "pictureUrl": "./assets/images/TiffanyWise.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -530,7 +530,7 @@
     {
       "name": "Carillion Vandoor",
       "cardTitle": "Governess Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/9/95/CarillonVandoor.jpg/revision/latest?cb=20140417205146",
+      "pictureUrl": "./assets/images/CarillonVandoor.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -555,7 +555,7 @@
     {
       "name": "Francine Barbier",
       "cardTitle": "Library Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/6/64/FrancineBarbier.jpg/revision/latest?cb=20140417205449",
+      "pictureUrl": "./assets/images/FrancineBarbier.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -580,7 +580,7 @@
     {
       "name": "Renee R Rieussec",
       "cardTitle": "Pet Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/1/11/ReneeRRieussec.jpg/revision/latest?cb=20140417205722",
+      "pictureUrl": "./assets/images/ReneeRRieussec.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -605,7 +605,7 @@
     {
       "name": "Domino Bonaparte",
       "cardTitle": "Black Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/4/47/DominoBonaparte.jpg/revision/latest?cb=20140417205312",
+      "pictureUrl": "./assets/images/DominoBonaparte.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -630,7 +630,7 @@
     {
       "name": "Amaretto Renard",
       "cardTitle": "Dressing Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/5/56/AmarettoRenard.jpg/revision/latest?cb=20140417205102",
+      "pictureUrl": "./assets/images/AmarettoRenard.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -655,7 +655,7 @@
     {
       "name": "Victoria Calderan",
       "cardTitle": "Destruction Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/c/ce/VictoriaCalderan.jpg/revision/latest?cb=20140417210001",
+      "pictureUrl": "./assets/images/VictoriaCalderan.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -680,7 +680,7 @@
     {
       "name": "Emily Raymond",
       "cardTitle": "Architect Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/a/a8/EmilyRaymond.jpg/revision/latest?cb=20140417205334",
+      "pictureUrl": "./assets/images/EmilyRaymond.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -705,7 +705,7 @@
     {
       "name": "Rutile der Sar",
       "cardTitle": "Ninja Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/3/33/RutileDerSar.jpg/revision/latest?cb=20140417205821",
+      "pictureUrl": "./assets/images/RutileDerSar.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -730,7 +730,7 @@
     {
       "name": "Phyllis Lumley",
       "cardTitle": "Guest Room Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/2/2b/PhyllisLumley.jpg/revision/latest?cb=20140417205704",
+      "pictureUrl": "./assets/images/PhyllisLumley.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -855,7 +855,7 @@
     {
       "name": "Pauline Dumond",
       "cardTitle": "Tea Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/b/b5/PaulineDumond.jpg/revision/latest?cb=20140417205646",
+      "pictureUrl": "./assets/images/PaulineDumond.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -907,7 +907,7 @@
     {
       "name": "Anja Brunner",
       "cardTitle": "Maid Chief",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/8/86/PR20-Anja_Brunner.png/revision/latest?cb=20200529225648",
+      "pictureUrl": "./assets/images/PR20-Anja_Brunner.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": true,
@@ -932,7 +932,7 @@
     {
       "name": "Matilde Wiese",
       "cardTitle": "Chambermaid Chief",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/e/eb/PR21-Matilde_Wiese.png/revision/latest?cb=20200529225700",
+      "pictureUrl": "./assets/images/PR21-Matilde_Wiese.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": true,
@@ -1007,7 +1007,7 @@
     {
       "name": "Toni Darling",
       "cardTitle": "Confectionary Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/2/2e/PR22-Toni_Darling.png/revision/latest?cb=20200529230647",
+      "pictureUrl": "./assets/images/PR22-Toni_Darling.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
@@ -1057,7 +1057,7 @@
     {
       "name": "Nadja Kesten",
       "cardTitle": "Bar Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/7/77/PR23-Nadja_Kersten.png/revision/latest?cb=20200601052236",
+      "pictureUrl": "./assets/images/PR23-Nadja_Kersten.webp",
       "promo": false,
       "employEffect": true,
       "chiefMaid": false,
@@ -1082,7 +1082,7 @@
     {
       "name": "Gina Kersten",
       "cardTitle": "Bar Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/9/98/PR24-Gina_Kersten.png/revision/latest?cb=20200529225738",
+      "pictureUrl": "./assets/images/PR24-Gina_Kersten.webp",
       "promo": false,
       "employEffect": true,
       "chiefMaid": false,
@@ -1359,7 +1359,7 @@
     {
       "name": "Leopold Niebling",
       "cardTitle": "Butler Chief",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/c/c5/PR39-Leopold_Niebling.png/revision/latest?cb=20200529232140",
+      "pictureUrl": "./assets/images/PR39-Leopold_Niebling.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": true,
@@ -1384,7 +1384,7 @@
     {
       "name": "Beverly Snowfeldt",
       "cardTitle": "Chambermaid Chief",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/4/45/PR40-Beverly_Snowfeldt.png/revision/latest?cb=20200529232150",
+      "pictureUrl": "./assets/images/PR40-Beverly_Snowfeldt.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": true,
@@ -1811,7 +1811,7 @@
     {
       "name": "Sophia Marfil",
       "cardTitle": "Maid Chief",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/7/79/PR12-Sophia_Marfil.png/revision/latest?cb=20200529225336",
+      "pictureUrl": "./assets/images/PR12-Sophia_Marfil.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": true,
@@ -1836,7 +1836,7 @@
     {
       "name": "Beatrice Escudo",
       "cardTitle": "Chambermaid Chief",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/c/cb/PR13-Beatrice_Escudo.png/revision/latest?cb=20200529225351",
+      "pictureUrl": "./assets/images/PR13-Beatrice_Escudo.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": true,
@@ -1861,7 +1861,7 @@
     {
       "name": "Fryda Viento",
       "cardTitle": "Oceanographer Maid",
-      "pictureUrl": "https://static.wikia.nocookie.net/tanto-cuore/images/c/cf/FrydaViento.jpg/revision/latest?cb=20140417210653",
+      "pictureUrl": "./assets/images/FrydaViento.webp",
       "promo": false,
       "employEffect": false,
       "chiefMaid": false,
