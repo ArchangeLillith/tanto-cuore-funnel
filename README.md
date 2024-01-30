@@ -8,6 +8,13 @@ This project is the utilitous little sister to Tanto Cuorse Randomizer. This acc
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
+## Backend Server
+
+Run `npm start server` to expose the databse.json to  `http://localhost:5000/`.
+
+## GUI for the card adding functionality
+![GUI-for-Funnel](https://github.com/ArchangeLillith/tanto-cuore-funnel/blob/master/GUI-for-Funnel.png?raw=true)
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
